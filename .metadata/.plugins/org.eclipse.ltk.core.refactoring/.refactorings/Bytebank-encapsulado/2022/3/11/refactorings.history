@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;bytebank-herdado-conta/src&apos;&#x0D;&#x0A;- Original project: &apos;Bytebank-encapsulado&apos;&#x0D;&#x0A;- Destination element: &apos;bytebank-herdado-conta/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     CriaConta.java&#x0D;&#x0A;     Conta.java&#x0D;&#x0A;     Cliente.java" description="Copy compilation units" destination="=bytebank-herdado-conta/src" element1="/src&lt;{CriaConta.java" element2="/src&lt;{Conta.java" element3="/src&lt;{Cliente.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1647023904943" units="3" version="1.0"/>
+</session>
